@@ -29,11 +29,5 @@ public class cardValidity {
 			System.out.println("Invalid Card");
 	}
 	
-	public static void main(String[] args) {
-		String a = "4519023131370288";
-		CardType.cardType(a);
-		cardValid(a);
-		
-	}
 
 }

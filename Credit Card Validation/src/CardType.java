@@ -25,12 +25,6 @@ public class CardType {
 			System.out.println("INVALID CARD");
 		
 	}
-	
-	
-	public static void main(String[] args) {
-		cardType("5212345678123445");
-		
-	}
 
 }
 
